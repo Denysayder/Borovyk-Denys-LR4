@@ -1,0 +1,15 @@
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/bin/Debug/net6.0/Laba4_2Sem
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/bin/Debug/net6.0/Laba4_2Sem.deps.json
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/bin/Debug/net6.0/Laba4_2Sem.runtimeconfig.json
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/bin/Debug/net6.0/Laba4_2Sem.dll
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/bin/Debug/net6.0/Laba4_2Sem.pdb
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.csproj.AssemblyReference.cache
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.AssemblyInfoInputs.cache
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.AssemblyInfo.cs
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.csproj.CoreCompileInputs.cache
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.dll
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/refint/Laba4_2Sem.dll
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.pdb
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/Laba4_2Sem.genruntimeconfig.cache
+/Users/denisborovik/Projects/Laba4_2Sem/Laba4_2Sem/obj/Debug/net6.0/ref/Laba4_2Sem.dll
